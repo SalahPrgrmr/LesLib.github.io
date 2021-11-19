@@ -192,8 +192,8 @@ function GetInactivityTimeout()
 
 function GetMailer()
 {
-    $smtpOptions = new SMTPOptions('smtp.gmail.com', 587, true, 'prgrmr.salah@gmail.com', '', '');
-    $mailerOptions = new MailerOptions(MailerType::SMTP, 'prgrmr.salah@gmail.com', 'Eng.Salah Hamoud | Library', $smtpOptions);
+    $smtpOptions = new SMTPOptions('smtp.gmail.com', 587, true, '', '', '');
+    $mailerOptions = new MailerOptions(MailerType::SMTP, '', 'Eng.Salah Hamoud | Library', $smtpOptions);
     
     return PHPMailerBasedMailer::getInstance($mailerOptions);
 }
