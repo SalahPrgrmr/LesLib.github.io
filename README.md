@@ -11,7 +11,7 @@
 ﻿# Using
 -PHP + MySQL Server
 
-﻿# Images
+﻿# Images<br><br>
  (English Interfaces)<br>
  -Home <br>![image](https://user-images.githubusercontent.com/42158090/144641757-9e4f4525-263d-49e8-93e3-c1b2bc16aeb5.png)
  -Categories <br>![image](https://user-images.githubusercontent.com/42158090/144642021-973ceb31-adec-43f0-9274-8e7757fe54a6.png)
@@ -19,7 +19,6 @@
  -Add New Category <br>![image](https://user-images.githubusercontent.com/42158090/144642349-1663d94d-0d22-4748-8019-5e4a63cfd1b6.png)
  -Add New Lesson or Code <br>![Add a new lesson](https://user-images.githubusercontent.com/42158090/144642997-6d3a8bf9-43f6-4e7d-82c7-c142c0725cdd.gif)
 <br>------------------------<br>
-
  (Arabic Interfaces)<br>
 -الرئيسية <br>![image](https://user-images.githubusercontent.com/42158090/142705187-cdfb23d3-32fa-4fa2-9084-0e5e254d309f.png)
 -الاقسام <br>![image](https://user-images.githubusercontent.com/42158090/142705206-45070f0d-76ed-4587-9789-79c2b9240661.png)
